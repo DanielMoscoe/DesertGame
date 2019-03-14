@@ -1,0 +1,3 @@
+// Water value
+CurWater=MaxWater
+
